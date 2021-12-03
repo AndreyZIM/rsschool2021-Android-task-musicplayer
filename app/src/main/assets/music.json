@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Million",
+    "artist": "BigBabyTape, Kizaru",
+    "bitmapUri": "https://the-flow.ru/uploads/images/catalog/element/6171d67303ceb.jpg",
+    "trackUri": "https://su.muzmo.cc/get/cuts/80/c8/80c8d4f001508842eff0dee92e6ae29a/73212025/Big_Baby_Tape_kizaru_-_Million_b128f0d135.mp3"
+  },
+  {
+    "id": 2,
+    "title": "FOR MULA",
+    "artist": "OBLADAET",
+    "bitmapUri": "https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F2858c9fbb4a5b5691dc5c2dd1478f4be.1000x1000x1.jpg",
+    "trackUri": "https://su.muzmo.cc/get/music/20210228/OBLADAET_-_FOR_MULA_72815651.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Into the Nothing",
+    "artist": "Breaking Benjamin",
+    "bitmapUri": "https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fa707ceb1d95ec4c52cf42ea5bd364e86.700x700x1.jpg",
+    "trackUri": "https://su.muzmo.cc/get/cuts/fe/9e/fe9e7eb11a179abdce14a67cbf7d7def/50569936/Breaking_Benjamin_-_Into_The_Nothing_b128f0d223.mp3"
+  },
+  {
+    "id": 4,
+    "title": "HDMI",
+    "artist": "BONES",
+    "bitmapUri": "https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F8099bbaf694ef21d8f2035a94cca8771.500x500x1.jpg",
+    "trackUri": "https://su.muzmo.cc/get/cuts/32/6f/326f398a0f76f45b92e31848ea205b99/63751943/Bones_-_HDMI_b128f0d139.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Spicy",
+    "artist": "Ty Dolla $ign, Post Malone",
+    "bitmapUri": "https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F3d22a3bcc9d263e66cba1fa453f74ed1.1000x1000x1.png",
+    "trackUri": "https://su.muzmo.cc/get/cuts/d1/b0/d1b0a57becc7d18c438ad5663e28fd47/71355848/Ty_Dolla_ign_feat_Post_Malone_-_Spicy_feat_Post_Malone_b128f0d144.mp3"
+  }
+]
